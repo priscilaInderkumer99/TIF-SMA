@@ -1,0 +1,18 @@
+{
+  "patient_id": "MGZ_2025_001",
+  "maternal_age": 28,
+  "ethnicity": "afroamericana",
+  "gestational_age": 30,
+  "fetal_sex": "male",
+  "clinical_presentation": {
+    "contractions": "leves_irregulares",
+    "cervical_dilation": 1,
+    "bleeding": false,
+    "membrane_rupture": false
+  },
+  "samples": {
+    "placenta_biopsy": "BIO_MGZ_001.fastq.gz",
+    "maternal_serum": "SER_MGZ_001.csv"
+  },
+  "urgency_level": "media"
+}
