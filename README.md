@@ -1,6 +1,6 @@
 # SPTB-AI: Sistema Multi-Agente para Predicción de Parto Pretérmino Espontáneo
 
-Proyecto final de la materia **Sistemas Multiagentes**, desarrollado por **Priscila Inderkumer**.  
+Proyecto final de la materia **Sistemas Multiagentes y Expertos**, desarrollado por **Priscila Inderkumer**.  
 Integra tres agentes autónomos (Transcriptómico, Metabolómico y Clínico) para estimar el riesgo de **parto pretérmino espontáneo (SPTB)** y recomendar un protocolo de acción basado en reglas **Prolog**.
 
 ---
