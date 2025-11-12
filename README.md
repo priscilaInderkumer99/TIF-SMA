@@ -18,7 +18,7 @@ Integra tres agentes autónomos (Transcriptómico, Metabolómico y Clínico) par
 
 | Archivo | Descripción |
 |----------|-------------|
-| `sptb_ai_demo_v4.py` | Script principal del sistema multiagente |
+| `sptb_ai_demo_v1.0.py` | Script principal del sistema multiagente |
 | `reglas_sptb.pl` | Base de conocimiento Prolog con reglas clínicas |
 | `paciente_MGZ_001.json` | Datos de ejemplo del paciente |
 | `TPFinal_INDERKUMER_Priscila_v1.2.pdf` | Informe original completo |
